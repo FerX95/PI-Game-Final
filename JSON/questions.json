@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Um produto custa R$100 à vista ou 2x de R$60. Qual é mais vantajoso?",
+    "options": ["À vista", "Parcelado"],
+    "answer": "À vista",
+    "explanation": "Parcelado: 2 x 60 = 120. À vista: 100."
+  },
+  {
+    "question": "Juros simples: R$200 a 10% ao mês por 2 meses. Total?",
+    "options": ["R$220", "R$240", "R$260"],
+    "answer": "R$240",
+    "explanation": "J = 200 x 0.1 x 2 = 40, total 200 + 40 = 240."
+  },
+  {
+    "question": "Juros compostos: R$100 a 10% por 2 meses. Total aproximado?",
+    "options": ["R$120", "R$121", "R$122"],
+    "answer": "R$121",
+    "explanation": "100 x (1.1)^2 = 121."
+  },
+  {
+    "question": "João comprou um celular por R$1.000,00 e decidiu pagar após 5 meses, com juros simples de 2% ao mês. Qual será o valor total?",
+    "options": ["R$1.100,00", "R$1.200,00", "R$1.300,00"],
+    "answer": "R$1.100,00",
+    "explanation": "J = 1000 x 0.02 x 5 = 100, total = 1000 + 100 = 1100."
+  },
+  {
+    "question": "Em uma prova que vale 10 pontos, Ana tirou 7 pontos. Qual foi a porcentagem de acertos?",
+    "options": ["65%", "70%", "75%", "80%"],
+    "answer": "70%",
+    "explanation": "7 de 10 equivale a 70%."
+  },
+  {
+    "question": "Um produto custa R$200,00 e recebe um desconto simples de 5% ao mês por 2 meses. Qual será o preço final?",
+    "options": ["R$160,00", "R$170,00", "R$180,00"],
+    "answer": "R$180,00",
+    "explanation": "D = 200 x 0.05 x 2 = 20, total = 200 - 20 = 180."
+  },
+  {
+    "question": "Juros simples: um capital de R$500 aplicado a 3% ao mês por 4 meses gera qual montante?",
+    "options": ["R$560", "R$600", "R$620"],
+    "answer": "R$560",
+    "explanation": "J = 500 x 0.03 x 4 = 60, montante = 500 + 60 = 560."
+  },
+  {
+    "question": "Juros compostos: R$1.000 aplicados a 5% ao mês por 2 meses resultam em qual valor aproximado?",
+    "options": ["R$1.100,00", "R$1.102,50", "R$1.150,00"],
+    "answer": "R$1.102,50",
+    "explanation": "M = 1000 x (1.05)^2 = 1102.50."
+  },
+  {
+    "question": "Juros simples: Maria pegou R$800 emprestados a 4% ao mês por 3 meses. Quanto pagará de juros?",
+    "options": ["R$84", "R$96", "R$104"],
+    "answer": "R$96",
+    "explanation": "J = 800 x 0.04 x 3 = 96."
+  },
+  {
+    "question": "Juros compostos: um investimento de R$200 a 10% ao mês por 3 meses chega a qual montante aproximado?",
+    "options": ["R$260,00", "R$266,20", "R$280,00"],
+    "answer": "R$266,20",
+    "explanation": "M = 200 x (1.1)^3 = 266.20."
+  }
+]
