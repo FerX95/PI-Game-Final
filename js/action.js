@@ -188,7 +188,7 @@ function finishGame(message) {
       </div>
 
       <div class="final-score-card">
-        <span class="final-label">Pontuacao final</span>
+        <span class="final-label">Pontuação final</span>
         <strong>${score}</strong>
       </div>
 
